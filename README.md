@@ -34,11 +34,17 @@ I thrive in **Agile environments** and am known for my ability to work collabora
 
 I’ve had the opportunity to work on some exciting projects. Check them out below!
 
-### [Smart Event Scheduler App](https://github.com/your-username/smart-event-scheduler)
-A smart application that helps users schedule events based on their availability and preferences.
+### [Smart Event Scheduler App](https://github.com/NayakNaveen/event_management_app)
+A mobile app for scheduling events based on availability and preferences, using React Native, Firebase, Google Vision API, and Google Maps API.
 
-### [Digital Bakery Management Website](https://github.com/your-username/digital-bakery-management)
-A full-fledged web application for managing bakery products, orders, and inventory.
+### [Digital Bakery Management Website](https://github.com/NayakNaveen/Cake-shop-Management-System)
+An e-commerce platform for managing bakery products and orders, built with React.js, Node.js, MongoDB, WebSocket, and PayPal API for secure payments.
+
+### [Movie Recommendation System](https://github.com/NayakNaveen/ml-movie-recommender)
+A deep learning-based movie recommendation system that predicts user ratings and suggests top movies using collaborative filtering
+
+### [AI - Voice Assistant](https://github.com/NayakNaveen/AI_Bot)
+A Python-based voice assistant that performs tasks like telling the time, searching Wikipedia, providing jokes, and managing system stats, using libraries like pyttsx3, SpeechRecognition, and psutil.
 
 
 ## 📬 Get in Touch
