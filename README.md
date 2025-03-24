@@ -27,7 +27,7 @@ I thrive in **Agile environments** and am known for my ability to work collabora
 - MySQL | MongoDB | DynamoDB | InfluxDB | Firebase
 
 ### **Tools & Technologies:**
-- Docker | Git & GitHub | AWS | Azure | CI/CD | Postman | Tableau | Selenium | Jira | ServiceNow
+- Docker | Git & GitHub | AWS | Azure | CI/CD | Postman | Tableau | Figma | Selenium | Jira | ServiceNow
 
 
 ## 🚀 Projects
@@ -50,6 +50,6 @@ I love connecting with like-minded individuals and fellow developers! Feel free 
 - 🐙 **GitHub:** [NayakNaveen](https://github.com/NayakNaveen)
 
 
-> “The best way to predict the future is to invent it.” – Alan Kay
+> “Self-belief and hard work will always earn you success.” – Virat Kohli
 
 Thanks for stopping by my GitHub profile😊
