@@ -1,4 +1,4 @@
-# 🚀 Naveen Nayak 👨‍💻
+# 💡 Naveen Nayak 👾
 
 **Master's Student in Computer Science | Software Engineer | Full Stack Developer**  
 
