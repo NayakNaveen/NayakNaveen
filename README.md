@@ -29,9 +29,9 @@ Here are some projects I have worked on. You can explore the code via the links 
 
 Feel free to reach out to me through the following channels:
 
-- Email: [naveennayak019@gmail.com](mailto:your-email@example.com)
-- LinkedIn: [Naveen019](https://www.linkedin.com/in/your-linkedin)
-- GitHub: [NayakNaveen](https://github.com/your-username)
+- Email: [naveennayak019@gmail.com](mailto:naveennayak019@gmail.com)
+- LinkedIn: [Naveen019](https://www.linkedin.com/in/Naveen019)
+- GitHub: [NayakNaveen](https://github.com/NayakNaveen)
 
 
 > Thank you for visiting my GitHub profile!
