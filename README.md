@@ -37,7 +37,7 @@ I’ve had the opportunity to work on some exciting projects. Check them out bel
 ### [Smart Event Scheduler App](https://github.com/NayakNaveen/event_management_app)
 A mobile app for scheduling events based on availability and preferences, using React Native, Firebase, Google Vision API, and Google Maps API.
 
-### [Digital Bakery Management Website]([https://github.com/NayakNaveen/Cake-shop-Management-Syste](https://github.com/NayakNaveen/digital-bakery.git))
+### [Digital Bakery Management Website](https://github.com/NayakNaveen/digital-bakery.git)
 An e-commerce platform for managing bakery products and orders, built with React.js, Node.js, MongoDB, WebSocket, and PayPal API for secure payments.
 
 ### [Movie Recommendation System](https://github.com/NayakNaveen/ml-movie-recommender)
